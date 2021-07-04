@@ -1,5 +1,11 @@
 # Indent Blankline
 
+**YuSoLi Modified**
+
+**Rollback `lua` branch since it always prompts me notifications.**
+
+---
+
 This plugin adds indentation guides to all lines (including empty lines).
 
 It uses Neovims virtual text feature and **no conceal**
